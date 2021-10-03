@@ -1,0 +1,24 @@
+{
+  "name": "see-action-in-action",
+  "version": "1.0.0",
+  "description": ":laugh:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashiishme/see-action-in-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashiishme/see-action-in-action/issues"
+  },
+  "homepage": "https://github.com/ashiishme/see-action-in-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}
